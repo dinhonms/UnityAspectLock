@@ -1,0 +1,23 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Visual Studio
+*.vcxproj*
+*.sln
+*.user
+*.vcxproj.filters
+
+# Misc
+*.log
+*.tmp
+
+# Unity
+/Assets/Plugins/**
