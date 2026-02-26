@@ -11,7 +11,7 @@
 
 static HWND g_hwnd = nullptr;
 static bool g_installed = false;
-static float g_aspect = 16.0f / 9.0f;
+static float g_aspect = 9.0f / 16.0f;
 
 static const UINT_PTR kSubclassId = 0xBADC0DE1;
 

@@ -1,0 +1,7 @@
+EXPORTS 
+	?fabs@@YAMM@Z
+	?lround@@YAJM@Z
+	UnityAspectLock_Install
+	UnityAspectLock_IsInstalled
+	UnityAspectLock_Uninstall
+	fabsf
